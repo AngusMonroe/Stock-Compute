@@ -102,3 +102,11 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# macos
+.DS_Store
+.idea
+*.bak
+*.pkl
+*.xlsx
+*.xls
