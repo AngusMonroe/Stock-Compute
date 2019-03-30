@@ -7,6 +7,8 @@ python3
 
 ## File orgnization
 
+```
 |- stock_compute.py
 |- stock_divide_compute.py
 |- [data files]
+```
